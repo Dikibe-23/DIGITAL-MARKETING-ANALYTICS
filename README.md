@@ -8,7 +8,7 @@ We utilized python to compute and visualize various marketing KPIs with a focus 
 This project is useful for the following reasons;
 - Reporting performance of digital marketing efforts.
 - Determining the most effective marketing strategy. That is, helps in decision making.
-- Causal Inference. Determing root causes of sales performance.
+- Causal Inference. Determining root causes of sales performance.
 - Improving sales and revenue.
 
 ## TOOLS
